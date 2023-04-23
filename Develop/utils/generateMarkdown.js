@@ -22,8 +22,8 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits] (#credits)
-- [License] (#license)
+- [Credits](#credits)
+- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
