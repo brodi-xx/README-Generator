@@ -2,22 +2,26 @@ var questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the title of ReadMe?"
+        message: "What is the title of ReadMe?",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
         name: "description",
-        message: "Please provide a detailed description of your application \n(Your motivation, Why did you build this project?, What problem does it solve?, What did you learn?, What makes your project stand out?):"
+        message: "Please provide a detailed description of your application \n(Your motivation, Why did you build this project?, What problem does it solve?, What did you learn?, What makes your project stand out?):",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
         name: "installation",
-        message: "Please provide instructions on how to install your application:"
+        message: "Please provide instructions on how to install your application:",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
         name: "usage",
-        message: "Please provide instructions on using your application:"
+        message: "Please provide instructions on using your application:",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
@@ -33,17 +37,20 @@ var questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Please include instructions on how to contribute to your application:"
+        message: "Please include instructions on how to contribute to your application:",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
         name: "github",
-        message: "What is your github username?"
+        message: "What is your github username?",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     },
     {
         type: "input",
         name: "email",
-        message: "What is your email address?"
+        message: "What is your email address?",
+        validate: (value) =>{ if(value){return true} else {return 'I need a value to continue'}}
     }
 ]
 
