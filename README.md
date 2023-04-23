@@ -4,6 +4,8 @@
 
 As a developer, you need to have a well written README file for others who didn't work directly on a project. This project is to show and deomstrate my node skills to generator a readme file quickly.
 
+You can see a video of the app in action <a href="https://drive.google.com/file/d/1b9FSJHbx5nPgMlFMzRGAzk3CmqvTRh1n/view">here</a>
+
 ## Table of Contents
 
 - [Installation](#installation)
