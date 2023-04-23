@@ -8,8 +8,8 @@ As a developer, you need to have a well written README file for others who didn'
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits] (#credits)
-- [License] (#license)
+- [Credits](#credits)
+- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -24,7 +24,7 @@ Once you have node running, you will run the app and it prompt you with a series
 ## Credits
 
 I referenced freecodecamp.org to see what a good readme file entailed to prompt you with these questions
-
+<img src = "https://github.com/brodi-xx/README-Generator-/blob/main/Develop/Screenshot%202023-04-23%20at%205.57.55%20PM.png?raw=true">
 ## License
 
 MIT
